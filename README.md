@@ -64,9 +64,9 @@ To get started with the Realtime Sign Language Detection Using LSTM Model, follo
 
 1. Clone the repository:
 
-   ```shell
-   git clone https://github.com/AvhishekAdhikary/Realtime-Sign-Language-Detection-Using-LSTM-Model.git
-   ```
+```shell
+git clone https://github.com/AvhishekAdhikary/Realtime-Sign-Language-Detection-Using-LSTM-Model.git
+```
 2. Install Dependencies:
 
   ```shell
